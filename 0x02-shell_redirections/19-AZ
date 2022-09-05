@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'replace all characters' | tr a z |tr z e
